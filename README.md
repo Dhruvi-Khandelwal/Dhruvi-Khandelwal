@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruvi-Khandelwal
 - 👀 I’m interested in learning new technologies and exploring the world of data science
 - 🌱 I’m building skills in data science and currently learning Python, SQLite and ML.
-- 📫 You can reach me on @dhruvikhandelwal05@gmail.com
+- 📫 You can reach me at @dhruvikhandelwal05@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an avid book reader and love learning languages and have a foundational proficiency in Spanish
 
